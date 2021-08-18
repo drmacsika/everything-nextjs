@@ -3,7 +3,10 @@
 */.pnp
 */.pnp.js
 */.gitignore
+<<<<<<< HEAD
 */.git
+=======
+>>>>>>> upstream/master
 # testing
 */coverage
 
