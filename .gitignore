@@ -3,7 +3,10 @@
 */.pnp
 */.pnp.js
 */.gitignore
+<<<<<<< HEAD
 */.git
+=======
+>>>>>>> f784de7a5077403585731b9cb1d32b28d8cf1c16
 # testing
 */coverage
 
