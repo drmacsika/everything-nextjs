@@ -16,7 +16,7 @@ npm run dev or yarn start
 
 Pull requests and contributions are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-Please make sure to follow the <a href="https://github.com/drmacsika/Everything-NextJS/blob/master/CONTRIBUTING.md">guidelines</a> update tests as appropriate.
+Please make sure to follow the <a href="https://github.com/drmacsika/Everything-NextJS/blob/master/CONTRIBUTING.md">guidelines</a> and update tests as appropriate.
 
 ## License
 
