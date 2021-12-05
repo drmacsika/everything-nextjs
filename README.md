@@ -25,3 +25,8 @@ Please make sure to follow the <a href="https://github.com/drmacsika/Everything-
 ## Additional Info
 
 For more in-depth understanding of nextJS, you can reach out to me and I'll give you the explanation you need.
+
+## Contact Info
+
+If you have any question or want to reach me directly, 
+[Contact Nsikak Imoh](https://nsikakimoh.com).
